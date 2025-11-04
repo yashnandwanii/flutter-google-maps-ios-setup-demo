@@ -19,7 +19,7 @@ This code sample represents key contributions I made to a **private GIS applicat
 
 > **Note:** The video demonstrates the original GIS application running with this Google Maps integration.
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_ID_HERE
+https://drive.google.com/file/d/1_Molho-zS5ojjqP28m-YdkOxagyMvmGD/view?usp=sharing
 
 *To add your video:*
 1. Upload your demo video to GitHub (drag & drop in an issue or discussion)
