@@ -1,0 +1,11 @@
+// MyKeys.xcconfig.example
+// 
+// SETUP INSTRUCTIONS:
+// 1. Copy this file and rename it to "MyKeys.xcconfig" (remove .example)
+// 2. Replace YOUR_API_KEY_HERE with your actual Google Maps API key
+// 3. MyKeys.xcconfig is in .gitignore and will NOT be committed to git
+//
+// To get a Google Maps API key:
+// https://developers.google.com/maps/documentation/ios-sdk/get-api-key
+
+GOOGLE_MAPS_API_KEY=YOUR_API_KEY_HERE
