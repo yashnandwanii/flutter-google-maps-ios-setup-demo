@@ -21,16 +21,7 @@ This code sample represents key contributions I made to a **private GIS applicat
 
 https://drive.google.com/file/d/1_Molho-zS5ojjqP28m-YdkOxagyMvmGD/view?usp=sharing
 
-*To add your video:*
-1. Upload your demo video to GitHub (drag & drop in an issue or discussion)
-2. Replace `YOUR_VIDEO_ID_HERE` with the actual asset ID from GitHub
-3. Alternatively, you can link to YouTube, Vimeo, or Google Drive
-
-Or place your video file in a `demo/` folder:
-```
-demo/
-  └── app_demo.mp4
-```
+Demo video is linked above. To include your own demo, either update the link above or add a `demo/app_demo.mp4` file to the repository and mention it here.
 
 ## ✨ Features
 
@@ -142,8 +133,8 @@ Display-only map component for:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/flutter-google-maps-showcase.git
-cd flutter-google-maps-showcase
+git clone https://github.com/yashnandwanii/flutter-google-maps-ios-setup-demo.git
+cd flutter-google-maps-ios-setup-demo
 ```
 
 2. **Install dependencies**
