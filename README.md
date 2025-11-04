@@ -268,18 +268,13 @@ This showcase is derived from a larger **private GIS application** where I was r
 - Image handling & compression
 - Secure authentication (JWT)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 About
 
 Created by **Yash Nandwani** as a portfolio demonstration of Flutter iOS development skills.
 
 **Contact:**
 - GitHub: [@yashnandwanii](https://github.com/yashnandwanii)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- Email: yashnandwani47@gmail.com  
 
 ---
 
